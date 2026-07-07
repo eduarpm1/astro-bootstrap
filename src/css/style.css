@@ -24,4 +24,5 @@ header {
     display: flex;
     justify-content: center;
     padding: 4px 0px;
+    font-size: 12px;
 }
